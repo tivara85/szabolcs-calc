@@ -1,0 +1,24 @@
+material;thickness_mm;unit;price;description
+wall_panel;60;m²;14200;Fali szendvicspanel 60 mm vastagságban
+wall_panel;80;m²;14500;Fali szendvicspanel 80 mm vastagságban
+wall_panel;100;m²;15100;Fali szendvicspanel 100 mm vastagságban
+wall_panel;120;m²;15800;Fali szendvicspanel 120 mm vastagságban
+wall_panel;150;m²;16900;Fali szendvicspanel 150 mm vastagságban
+roof_panel;60;m²;15800;Tető szendvicspanel 60 mm vastagságban
+roof_panel;80;m²;16500;Tető szendvicspanel 80 mm vastagságban
+roof_panel;100;m²;17400;Tető szendvicspanel 100 mm vastagságban
+roof_panel;120;m²;18400;Tető szendvicspanel 120 mm vastagságban
+roof_panel;150;m²;19800;Tető szendvicspanel 150 mm vastagságban
+concrete;standard;m³;28000;Szerkezeti beton az alapozáshoz
+earthwork;standard;m³;0;Az alapozási földmunka nem anyagköltség
+window;standard;db;85000;Ablak anyaga
+door;standard;db;145000;Ajtó anyaga
+gate;standard;db;480000;Automata kapu anyaga
+starter_profile;standard;m;1800;Indítóprofil szendvicspanelekhez
+eaves;standard;m;2200;Eresz- és szegélylemez
+ridge;standard;m;2600;Gerinclemez nyeregtetőhöz
+external_corner;standard;m;2400;Külső sarokprofil
+internal_corner;standard;m;2400;Belső sarokprofil
+opening_trim;standard;m;2800;Ablak-, ajtó- és kapunyílás szegélyezése
+metal_frame;100x100x3;kg;950;100×100×3 mm acél zártszelvény
+epoxy_floor;standard;m²;5200;Epoxi padlókiegyenlítő anyag
