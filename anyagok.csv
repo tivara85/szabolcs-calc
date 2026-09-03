@@ -1,24 +1,24 @@
 material;thickness_mm;unit;price;description
-wall_panel;60;m²;14200;Fali szendvicspanel 60 mm vastagságban
-wall_panel;80;m²;14500;Fali szendvicspanel 80 mm vastagságban
-wall_panel;100;m²;15100;Fali szendvicspanel 100 mm vastagságban
-wall_panel;120;m²;15800;Fali szendvicspanel 120 mm vastagságban
-wall_panel;150;m²;16900;Fali szendvicspanel 150 mm vastagságban
-roof_panel;60;m²;15800;Tető szendvicspanel 60 mm vastagságban
-roof_panel;80;m²;16500;Tető szendvicspanel 80 mm vastagságban
-roof_panel;100;m²;17400;Tető szendvicspanel 100 mm vastagságban
-roof_panel;120;m²;18400;Tető szendvicspanel 120 mm vastagságban
-roof_panel;150;m²;19800;Tető szendvicspanel 150 mm vastagságban
-concrete;standard;m³;28000;Szerkezeti beton az alapozáshoz
-earthwork;standard;m³;0;Az alapozási földmunka nem anyagköltség
-window;standard;db;85000;Ablak anyaga
-door;standard;db;145000;Ajtó anyaga
-gate;standard;db;480000;Automata kapu anyaga
-starter_profile;standard;m;1800;Indítóprofil szendvicspanelekhez
-eaves;standard;m;2200;Eresz- és szegélylemez
-ridge;standard;m;2600;Gerinclemez nyeregtetőhöz
-external_corner;standard;m;2400;Külső sarokprofil
-internal_corner;standard;m;2400;Belső sarokprofil
-opening_trim;standard;m;2800;Ablak-, ajtó- és kapunyílás szegélyezése
-metal_frame;100x100x3;kg;950;100×100×3 mm acél zártszelvény
-epoxy_floor;standard;m²;5200;Epoxi padlókiegyenlítő anyag
+wall_panel;60;m²;12000;Стеновая сэндвич-панель толщиной 60 мм, ориентир 2026 года +30%
+wall_panel;80;m²;14000;Стеновая сэндвич-панель толщиной 80 мм, ориентир 2026 года +30%
+wall_panel;100;m²;16300;Стеновая сэндвич-панель толщиной 100 мм, ориентир 2026 года +30%
+wall_panel;120;m²;18500;Стеновая сэндвич-панель толщиной 120 мм, ориентир 2026 года +30%
+wall_panel;150;m²;21500;Стеновая сэндвич-панель толщиной 150 мм, ориентир 2026 года +30%
+roof_panel;60;m²;12900;Кровельная сэндвич-панель толщиной 60 мм, ориентир 2026 года +30%
+roof_panel;80;m²;15000;Кровельная сэндвич-панель толщиной 80 мм, ориентир 2026 года +30%
+roof_panel;100;m²;16800;Кровельная сэндвич-панель толщиной 100 мм, ориентир 2026 года +30%
+roof_panel;120;m²;19000;Кровельная сэндвич-панель толщиной 120 мм, ориентир 2026 года +30%
+roof_panel;150;m²;22000;Кровельная сэндвич-панель толщиной 150 мм, ориентир 2026 года +30%
+concrete;standard;m³;38500;Конструкционный бетон для фундамента, ориентир 2026 года +30%
+earthwork;standard;m³;0;Отдельная стоимость материала не указана; земляные работы учитываются в стоимости работ
+window;standard;db;114000;Материал для окон, ориентир 2026 года +30%
+door;standard;db;188500;Материал для дверей, ориентировочная цена +30%
+gate;standard;db;624000;Материал для автоматических ворот, ориентировочная цена +30%
+starter_profile;standard;m;2340;Стартовый профиль для сэндвич-панелей, ориентировочная цена +30%
+eaves;standard;m;2860;Карнизная и кромочная планка, ориентировочная цена +30%
+ridge;standard;m;3380;Коньковая планка для двускатной крыши, ориентировочная цена +30%
+external_corner;standard;m;3120;Наружный угловой профиль, ориентировочная цена +30%
+internal_corner;standard;m;3120;Внутренний угловой профиль, ориентировочная цена +30%
+opening_trim;standard;m;3640;Обрамление оконных, дверных проёмов и ворот, ориентировочная цена +30%
+metal_frame;100x100x3;kg;770;Стальная профильная труба 100×100×3 мм, ориентир 2026 года +30%
+epoxy_floor;standard;m²;5460;Материал для выравнивания пола эпоксидным покрытием, ориентир 2026 года +30%
