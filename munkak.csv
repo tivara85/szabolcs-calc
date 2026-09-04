@@ -1,7 +1,7 @@
 work;unit;price;description
 wall_panel_installation;m²;7500;Szendvicspanel fali elemek szerelése
 roof_panel_installation;m²;8500;Szendvicspanel tetőelemek szerelése
-concrete_work;m³;21200;Beton bedolgozása és alapozási betonmunka
+concrete_work;m³;26200;Beton bedolgozása és alapozási betonmunka
 earthwork;m³;19500;Alapárok vagy munkagödör gépi földmunkája
 window_installation;db;35000;Ablak beépítése
 door_installation;db;55000;Ajtó beépítése
@@ -12,5 +12,5 @@ ridge_installation;m;4500;Gerinclemez szerelése
 external_corner_installation;m;5500;Külső sarokprofil szerelése
 internal_corner_installation;m;3500;Belső sarokprofil szerelése
 opening_trim_installation;m;5500;Ablak-, ajtó- és kapunyílás szegélyezése
-metal_frame_installation;m;7500;100×100×3 mm acél váz szerelése
-epoxy_floor_installation;m²;14200;Epoxi padlókiegyenlítés kivitelezése
+metal_frame_installation;m;20500;100×100×3 mm acél váz szerelése
+epoxy_floor_installation;m²;18200;Epoxi padlókiegyenlítés kivitelezése
